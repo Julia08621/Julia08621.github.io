@@ -1,0 +1,7 @@
+baseURL = 'https://Julia08621.github.io/'
+languageCode = 'zh-cn'
+title = 'AI Julia 的网站'
+theme = 'ananke'
+
+[build]
+  publishResources = true
